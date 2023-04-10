@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-fileNamePlacerInterceptor",
+	"name": "File Name Placer Interceptor",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This Plugin helps to add a name when Placing a new file in the Vault",
+	"author": "Mike Linsi",
+	"authorUrl": "https://MikeLinsi.com",
+	"isDesktopOnly": true
+}
